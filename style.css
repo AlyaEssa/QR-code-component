@@ -43,7 +43,7 @@ sub.content {
 .header {
   font-size: 25px;
   color: var(--Dark-blue);
-  margin-top: 15px;
+  margin-top: 23px; /*changed*/
 }
 .parag {
   color: var(--Grayish-blue);
